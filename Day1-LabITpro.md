@@ -22,7 +22,7 @@
 
 ## Screenshots 🖼️
 ![VM Creation](Day_1_VM_Creation.png)  
-![VM Settings](Day_1_VM_Setting.png)  
+![VM Setting](Day_1_VM_Setting.png)  
 ![VM Storage](Day_1_VM_Storage.png)  
 ![VM Network](Day_1_VM_Network.png) 
 ![VM Deployment](Day_1_VM_Deployment.png) 
