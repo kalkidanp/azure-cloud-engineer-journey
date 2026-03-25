@@ -10,6 +10,11 @@
 - SSH (Secure Shell) is used to connect to Linux virtual machines using command line
 - Virtual machines are accessed remotely using IP address and credentials
 - Engineers connect to VMs to install software, manage systems, and run applications
+## Screenshots 🖼️
+<img width="487" height="274" alt="1" src="https://github.com/user-attachments/assets/420d08a8-238a-4d70-a987-6608f37f4b3a" />
+<img width="491" height="272" alt="2" src="https://github.com/user-attachments/assets/dc1871a0-b8ba-4169-b49f-e5dd8f014436" />
+<img width="251" height="135" alt="3 p" src="https://github.com/user-attachments/assets/d396c8fb-80f3-49e9-9b1f-3e04ba2e4541" />
+<img width="547" height="307" alt="4" src="https://github.com/user-attachments/assets/9392aaea-2102-460c-bd8b-8c76f9e980e3" />
 
 ## Key Concepts
 - **RDP**: Graphical remote connection (Windows)
