@@ -70,7 +70,8 @@ If the VNet is missing:
     }
   ]
 }
-👉 The "dependsOn" section shows that:
+
+## 👉 The "dependsOn" section shows that:
 VM will only be created AFTER the VNet
 
 ## Challenges ⚠️
