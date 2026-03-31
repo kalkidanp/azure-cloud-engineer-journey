@@ -41,6 +41,22 @@ If the VNet is missing:
 - VM cannot communicate
 - System fails
 
+## Challenges ⚠️
+- No direct hands-on lab for full deployment
+- Needed to visualize dependencies and architecture manually
+- Understanding endpoints required additional research
+## Notes / Reflection 🚀
+- Shifted from learning individual services to designing connected systems
+- Understanding dependencies made cloud architecture clearer
+- Beginning to think in terms of real-world deployment scenarios
+## Screenshots
+<img width="1319" height="621" alt="1g" src="https://github.com/user-attachments/assets/84b44359-3023-4318-95cb-52d1a60a7aeb" />
+<img width="467" height="634" alt="2g" src="https://github.com/user-attachments/assets/158ead01-966e-4d9d-8a62-569c8f4f57e6" />
+<img width="838" height="465" alt="3g" src="https://github.com/user-attachments/assets/ce4eeb93-9a59-4bca-9b3f-7564bd7670a8" />
+<img width="786" height="629" alt="4g" src="https://github.com/user-attachments/assets/108e7859-4bb9-4dd4-a49b-bcd86c351ec7" />
+<img width="919" height="428" alt="5g" src="https://github.com/user-attachments/assets/eee278eb-f8da-457b-a31a-d9d3cd82aea2" />
+
+
 ## Example ARM Template (Simplified) 💻
 
 ```json
@@ -71,23 +87,6 @@ If the VNet is missing:
   ]
 }
 
-## 👉 The "dependsOn" section shows that:
-VM will only be created AFTER the VNet
-
-## Challenges ⚠️
-- No direct hands-on lab for full deployment
-- Needed to visualize dependencies and architecture manually
-- Understanding endpoints required additional research
-## Notes / Reflection 🚀
-- Shifted from learning individual services to designing connected systems
-- Understanding dependencies made cloud architecture clearer
-- Beginning to think in terms of real-world deployment scenarios
-## Screenshots
-<img width="1319" height="621" alt="1g" src="https://github.com/user-attachments/assets/84b44359-3023-4318-95cb-52d1a60a7aeb" />
-<img width="467" height="634" alt="2g" src="https://github.com/user-attachments/assets/158ead01-966e-4d9d-8a62-569c8f4f57e6" />
-<img width="838" height="465" alt="3g" src="https://github.com/user-attachments/assets/ce4eeb93-9a59-4bca-9b3f-7564bd7670a8" />
-<img width="786" height="629" alt="4g" src="https://github.com/user-attachments/assets/108e7859-4bb9-4dd4-a49b-bcd86c351ec7" />
-<img width="919" height="428" alt="5g" src="https://github.com/user-attachments/assets/eee278eb-f8da-457b-a31a-d9d3cd82aea2" />
 
 
 
