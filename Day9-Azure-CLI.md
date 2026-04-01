@@ -35,22 +35,27 @@
 az login
 az group create --name myRG --location eastus
 az group list --output table
+---
 👉 These commands:
 - Authenticate user
 - Create a Resource Group
 - Display resources in readable format
+---
 ## Deeper Understanding 🔍
 - Azure CLI enables automation, making cloud operations faster and scalable
 - It is commonly used by developers in CI/CD pipelines
 - CLI integrates well with scripting tools for Infrastructure as Code
+---
 ## Challenges ⚠️
 - No live resource creation due to lack of subscription
 - Understanding command structure and parameters required careful attention
 - Transitioning from portal-based thinking to command-line thinking
+---
 ## Notes / Reflection 🚀
 - This was my first step into command-line cloud management
 - Installing and exploring CLI locally made the learning more practical
 - Beginning to understand how real engineers automate cloud operations
+---
 ## Screenshots
 <img width="827" height="468" alt="4" src="https://github.com/user-attachments/assets/52fbf15f-2177-4f97-a6a8-167f6e173791" />
 <img width="700" height="440" alt="1" src="https://github.com/user-attachments/assets/248c9eac-c575-40ea-a44c-a34257b2e999" />
@@ -58,6 +63,7 @@ az group list --output table
 <img width="694" height="443" alt="3" src="https://github.com/user-attachments/assets/73eac723-3e13-42c9-b187-5465589d2def" />
 <img width="856" height="451" alt="6" src="https://github.com/user-attachments/assets/10cac469-a395-4624-a79b-0654fd012358" />
 <img width="816" height="462" alt="5" src="https://github.com/user-attachments/assets/8596a59a-610d-46fa-9984-d2b7734cf531" />
+---
 
 
 
