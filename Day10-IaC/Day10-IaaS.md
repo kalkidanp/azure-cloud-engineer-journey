@@ -31,20 +31,6 @@
 | Use Case | Native Azure IaC | Preferred modern approach |
 
 ---
-
-## Example ARM Template 💻
-
-```json
-{
-  "resources": [
-    {
-      "type": "Microsoft.Web/sites",
-      "name": "myWebApp",
-      "apiVersion": "2021-02-01",
-      "location": "East US"
-    }
-  ]
-}
 ## Deeper Understanding 🔍
 - IaC connects with Azure CLI and ARM for automated deployments  
 - Developers use IaC in CI/CD pipelines for consistent infrastructure  
@@ -62,4 +48,24 @@
 ## Notes / Reflection 🚀
 - First time writing infrastructure code using VS Code  
 - Transitioned from manual setup → command → code  
-- This feels like a major step toward real cloud engineering  
+- This feels like a major step toward real cloud engineering
+---
+## Screenshot
+<img width="498" height="233" alt="2" src="https://github.com/user-attachments/assets/80d71fa7-b7c2-45f0-a41c-321cceafb4dd" />
+<img width="1366" height="716" alt="1" src="https://github.com/user-attachments/assets/e8636999-d938-468f-8feb-05f842c9d0f3" />
+<img width="1366" height="728" alt="3" src="https://github.com/user-attachments/assets/bf6e5a10-bc96-4917-a159-df1a95852aed" />
+<img width="1366" height="728" alt="4" src="https://github.com/user-attachments/assets/bd3a381c-7597-4a5b-b87f-c163fc057f00" />
+
+## Example ARM Template 💻
+
+```json
+{
+  "resources": [
+    {
+      "type": "Microsoft.Web/sites",
+      "name": "myWebApp",
+      "apiVersion": "2021-02-01",
+      "location": "East US"
+    }
+  ]
+}
