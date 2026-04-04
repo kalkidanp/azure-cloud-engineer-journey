@@ -1,3 +1,4 @@
+> This document captures my learning and practical understanding of Azure CLI as part of my cloud engineering journey.
 # Day 1 – Azure Virtual Machine Lab (LabITpro)
 
 **Lab Platform:** LabITpro (simulated Azure)  
