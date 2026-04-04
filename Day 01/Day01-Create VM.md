@@ -21,11 +21,11 @@
 ---
 
 ## Screenshots 🖼️
-![VM Creation](./Day_1_VM_Creation.png) 
-![VM Creation](./Day_1_VM_Setting.png) 
-![VM Creation](./Day_1_VM_Storage.png) 
-![VM Creation](./Day_1_VM_Network.png) 
-![VM Creation](./Day_1_VM_Deployment.png) 
+<img width="1083" height="547" alt="Day_1_VM_Creation" src="https://github.com/user-attachments/assets/936bfd6d-25db-45d4-bc6b-0eaa84d2027f" />
+<img width="1069" height="590" alt="Day_1_VM_Deployment" src="https://github.com/user-attachments/assets/ba02608d-5a6a-4aa1-98ea-cb9fc0879ec8" />
+<img width="1099" height="562" alt="Day_1_VM_Network" src="https://github.com/user-attachments/assets/5a3ef812-e2d4-4fa9-a908-c40f7ac52c64" />
+<img width="1089" height="585" alt="Day_1_VM_Setting" src="https://github.com/user-attachments/assets/f1db6e09-f43f-4c70-a291-b355d21647d2" />
+<img width="1088" height="613" alt="Day_1_VM_Storage" src="https://github.com/user-attachments/assets/c17b9df7-59f8-4a50-aa60-f3106d4e5c4f" />
 
 ---
 
