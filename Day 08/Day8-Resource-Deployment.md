@@ -1,3 +1,4 @@
+> This document captures my learning and practical understanding of Azure CLI as part of my cloud engineering journey.
 # Day 8 – Deploying Resources Together in Azure
 
 ## What I Did
