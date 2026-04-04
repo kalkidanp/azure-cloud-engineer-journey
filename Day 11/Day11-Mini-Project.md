@@ -1,3 +1,4 @@
+> This document captures my learning and practical understanding of Azure CLI as part of my cloud engineering journey.
 # Day 11 – Azure Mini Project (End-to-End System with Bicep)
 
 ## Project Overview 🎯
