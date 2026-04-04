@@ -1,3 +1,4 @@
+> This document captures my learning and practical understanding of Azure CLI as part of my cloud engineering journey.
 # Day 3 – Connecting to a Virtual Machine
 
 ## What I Did
