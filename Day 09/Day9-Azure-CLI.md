@@ -1,3 +1,4 @@
+> This document captures my learning and practical understanding of Azure CLI as part of my cloud engineering journey.
 # Day 9 – Azure CLI (Command Line Interface)
 
 ## What I Did
