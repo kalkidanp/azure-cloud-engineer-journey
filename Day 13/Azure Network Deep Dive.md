@@ -106,6 +106,9 @@ Internet
 ---
 
 ## 📸 Screenshots
+<img width="658" height="464" alt="2" src="https://github.com/user-attachments/assets/09d4803b-bb9a-488a-9e0a-f11e979f4150" />
+<img width="576" height="375" alt="3" src="https://github.com/user-attachments/assets/413adb84-1069-401f-8e8d-f6a2cb454440" />
+![Uploading vs.png…]()
 
 ---
 
