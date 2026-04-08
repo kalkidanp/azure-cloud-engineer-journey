@@ -68,7 +68,7 @@ Implemented using Bicep in VS Code:
 
 ## Screenshots 🖼️
 <img width="535" height="352" alt="1" src="https://github.com/user-attachments/assets/ad13a424-24da-42c3-9b87-c30d05725f0d" />
- <img width="881" height="456" alt="3" src="https://github.com/user-attachments/assets/ea63af36-a9e9-4d9d-b440-719188af83fa" />
+
 <img width="951" height="442" alt="2" src="https://github.com/user-attachments/assets/00983e9e-34b7-408a-8acb-d755eaa753a7" />
 <img width="1361" height="721" alt="4" src="https://github.com/user-attachments/assets/9612ce25-68c0-4ca7-a7eb-5d5008df344d" />
 <img width="1366" height="681" alt="5" src="https://github.com/user-attachments/assets/a08a16c7-6d2d-48ac-ab0d-e052ae900926" />
