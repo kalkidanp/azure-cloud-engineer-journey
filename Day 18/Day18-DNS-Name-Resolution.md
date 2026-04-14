@@ -15,6 +15,11 @@ Today I explored one of the most fundamental concepts in cloud networking: **DNS
 - Understood how incorrect DNS setup can break private connectivity
 
 ---
+## Screenshots
+<img width="808" height="627" alt="1" src="https://github.com/user-attachments/assets/1d4aeb2e-8965-4793-882c-8a9907ce0bcc" />
+<img width="1366" height="712" alt="2" src="https://github.com/user-attachments/assets/32b15cbf-d97a-414c-b7c0-fbc91b685920" />
+
+---
 
 ## Key Concepts 💡
 
