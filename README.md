@@ -42,8 +42,7 @@ Over the past days, I have been learning and applying core cloud concepts includ
 
 ## 🎯 Goal
 
-To build strong cloud engineering skills and transition into a professional Azure Cloud Engineer role.
-
+To become a skilled Azure Cloud Engineer by building real-world cloud architectures, mastering Infrastructure as Code, and developing strong system design thinking.
 ---
 
 ## 🚀 Highlights
@@ -57,3 +56,47 @@ To build strong cloud engineering skills and transition into a professional Azur
 ## 📌 Note
 
 This journey is focused on learning by doing, documenting, and improving daily.
+
+---
+
+## 📅 Week 4: Networking, Security & Architecture 🏗️
+
+- Day 19: Azure Load Balancer (Layer 4)
+- Day 20: Application Gateway (Layer 7)
+- Day 21: Mini Secure Architecture
+- Day 22: Azure Storage Deep Dive (Blob + Security)
+- Day 23: Custom Architecture Design (API & Image separation)
+- Day 24: Reflection & System Integration
+
+---
+
+## 🧠 Week 4 Key Focus
+
+- Designing multi-tier cloud architecture
+- Understanding traffic flow (L4 vs L7)
+- Implementing layered security (NSG, Bastion, Private Endpoint)
+- Connecting services into a complete system
+- Practicing Infrastructure as Code using Bicep
+
+---
+
+## 🚀 Week 4 Highlights
+
+- Designed a secure architecture with:
+  - Application Gateway as entry point
+  - Multiple backend services (API & Images)
+  - Private storage using Private Endpoint + DNS
+  - Secure admin access using Bastion
+
+- Built and structured architecture using **Bicep in VS Code**
+- Strengthened system design thinking without relying on Azure Portal
+
+---
+
+## 💡 Key Takeaway
+
+Moved from:
+- Learning individual services  
+
+To:
+- Designing connected cloud systems with security and scalability in mind
