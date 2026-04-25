@@ -29,7 +29,7 @@ The pipeline includes:
 
 ## Example Pipeline 🔄
 
-```yaml
+yaml
 trigger:
 - main
 
