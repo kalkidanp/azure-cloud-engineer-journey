@@ -1,0 +1,11 @@
+trigger:
+- main
+
+pool:
+  vmImage: 'ubuntu-latest'
+
+steps:
+- script: echo "Starting pipeline..."
+- script: echo "Validating Bicep..."
+- script: echo "Deploying infrastructure..."
+- script: echo "Pipeline completed successfully"
